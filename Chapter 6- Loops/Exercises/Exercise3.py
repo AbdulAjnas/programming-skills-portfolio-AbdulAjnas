@@ -1,3 +1,3 @@
 # Infinite loop
 while True:
-    skip  # This statement does nothing, creating an infinite loop
+    print("skip the classes")  # This statement does nothing, creating an infinite loop

@@ -17,5 +17,5 @@ for river in rivers.keys():
 
 # Print the name of each country included in the dictionary using a loop
 print("\nNames of countries:")
-for country in rivers.values()
+for country in rivers.values():
     print(country)
